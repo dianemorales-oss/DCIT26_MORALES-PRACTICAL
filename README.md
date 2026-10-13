@@ -64,3 +64,6 @@ http://localhost:5173/
 - The project uses local sample data only.
 - No API or database is required.
 - Generated build output and node_modules are not included in version control.
+
+
+/* new commitment*/
